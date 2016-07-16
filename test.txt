@@ -1,0 +1,6 @@
+This is a test file for practicing pull request.
+In order to make a pull request, you should do the following things:
+1. Fork this repo to your own git-hub.
+2. Clone your git-hub repo to the local, make some changes, add, commit, push to your origin master branch.
+3. Click the make pull request button at the top of your repo's webpage. I will merge it as soon as I see it.
+Have fun ~~
